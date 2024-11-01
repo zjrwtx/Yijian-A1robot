@@ -1,2 +1,2 @@
-# Yijian-A1robot
+# Yijian-A1robot（逐步上传代码）
 全球首个用于医院检验科的企业级开源AI机器人解决方案
